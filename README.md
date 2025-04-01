@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @chocowgirl, but most people call me Jessica.
-- 🌱 I’m currently learning to code.  Starting with front-end and back-end coding, then maybe security and data?
+- 👋 Hi, I’m @chocowgirl, but most people call me Jessica or Jess.
+- 🌱 I’m currently learning web-development (fullstack).   Would like to explore security and data a bit more.  Really want to know more about machine learning and its industrial applications too.
+- 👀 I'm looking for an UNPAID 8 week internship for May and June of 2025.
+- 🥴 My github is a mess and I am aware! I will soon be moving projects that currently live elsewhere here, and sorting things out a bit here.
+- ❎ Don't see many pushes?  That's partly because of projects living elsewhere, and because my school computer is not the true origin pc of this github :/  Sorry if you like to see a sea of green, but it doesn't mean I haven't been busy.
 - 💞️ I’m looking to collaborate on projects in the future, particularly ones that address accessibility or sustainability issues.
-- 📫 How to reach me: here on Github for now.  Once I'm a bit more 'pro', I'll post a link to my LinkedIn or something of that sort.
+- 📫 How to reach me: here on Github for now, alternatively here is my LinkedIn: www.linkedin.com/in/jess-conrad-belgium
 - 😄 Pronouns: she/her or they/them.
 - ⚡ Fun facts: I have over 28 000 hours of experience in professional chocolatiering (particularly R&D and product development).
-I was a graphic-design co-op student at Saatchi & Saatchi a zillion years ago.
-I studied art after high-school, (so arty web-projects are hopefully in the future too)
-I worked in the research industry (market and political research) for about 10 years, but that was almost a zillion years ago too.
-I speak French and English fluently, my Spanish is... intermediate, and my Dutch is advanced beginner level.
+- 👩‍🎓 I was a graphic-design co-op student at Saatchi & Saatchi a zillion years ago.
+- 🎨 I studied art after high-school, (so arty-code-projects are hopefully in the future too)
+- 📈 I worked in the research industry (market and political research) for about 10 years, but that was almost a zillion years ago too.
+- 🗨 I speak French and English fluently, my Spanish is A2-B1-ish, and my Dutch is A2 level.
