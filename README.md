@@ -4,7 +4,7 @@
 - 🥴 My github is a mess and I am aware! I will soon be moving projects that currently live elsewhere here, and sorting things here out a bit.
 - ❎ Don't see many pushes?  That's partly because of projects living elsewhere, and because my school computer is not the true origin pc of this github :/  Sorry if you like to see a sea of green, but it doesn't mean I haven't been busy.
 - 💞️ I’m looking to collaborate on projects in the future, particularly ones that address accessibility or sustainability issues.
-- 📫 How to reach me: here on Github for now, alternatively here is my LinkedIn: (7-4-2025: I am in touch with Linked-In as they have taken my code-related LinkedIn page down for the moment and posted a 404, which is SO GREAT OF THEM TO DO).
+- 📫 How to reach me: here on Github for now, alternatively here is my LinkedIn: https://www.linkedin.com/in/jess-conrad-belgium/
 - 😄 Pronouns: she/her or they/them.
 - ⚡ Fun facts: I have over 28 000 hours of experience in professional chocolatiering (particularly R&D and product development).
 - 👩‍🎓 I was a graphic-design co-op student at Saatchi & Saatchi a zillion years ago.
